@@ -1,0 +1,173 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+p {
+  font-family: "Nanum Gothic", 돋움;
+  font-size: 20px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+.shadow {
+  text-shadow: 5px 5px 10px red;
+}
+
+/*.top {
+  border-bottom:1px solid #dddddd;
+  display: flex;
+}
+
+.top-space {
+  flex:1;
+}
+
+.top-container {
+  width:800px;
+}
+
+.bookmark {
+  display:flex;
+  margin-top:5px;
+}
+
+.bookmark-space {
+  flex :1;
+}
+
+.bookmark-container {
+ font-size:8px;
+ justify-content: right;
+}
+
+.search {
+  align-items:center;
+  display:flex;
+  margin-top:10px;
+  margin-bottom:30px;
+}
+
+.search-logo {
+  color: rgb(7, 200, 83);
+  font-size: 24px;
+  font-weight: 800;
+  margin-left: 10px;
+  margin-right: 20px;
+  transition: color 0.2s, top 0.2s;
+  position:relative;
+  top:0;
+
+  &:hover{
+    color: rgb(0,0,0);
+    top:-5px;
+  }
+}
+
+.search-input {
+  background-color: rgb(7, 200, 83);
+  display: flex;
+  padding: 3px;
+
+  input {
+    border: 0;
+    background-color: #fff;
+    width: 200px;
+    outline: none;
+  }
+}
+
+.search-input-button {
+  color: #ffffff;
+  margin-left: 5px;
+}*/
+/*.container{
+  align-items:flex-end;
+  background-color:#D0EBFF;
+  border-radius:10px;
+  padding:5px;
+  display:flex;
+  justify-content:center;
+}
+
+.item{
+  background-color:#F06595;
+  border-radius:10px;
+  height:100px;
+  margin:5px;
+  position:relative;
+
+}
+.item-1 {
+  height: 80px;
+ // width:40px;
+ flex:1;
+
+ .avatar {
+  background-color: yellow;
+  border-radius: 25px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  position: absolute;
+  top: -25px;
+  left: 10px;
+}
+
+
+}
+
+.item-2 {
+  height: 100px;
+  width:60px;
+}
+
+.item-3 {
+  height: 120px;
+  width:80px;
+}
+
+
+.hello{
+  font-size: 30px;
+  //p로 되어 있는 것을 전부다 바꿈 그래서 잘안쓴다.
+} //element selector
+
+.world{
+  color:blue
+}
+
+.world:hover{
+  background-color:black
+}
+
+#app{
+  color:red
+}
+
+
+
+.search{
+  background-color:green;
+  margin:10px; //margin도 left right 가능
+  border-width:2px;
+  border-style:solid;
+  border-color:red; // border: 2px solid red; 이것도 가능
+  padding-left:10px;
+  padding-right:10px;
+
+
+
+  .button{
+    color:white
+  }
+
+
+    &:hover{
+      font-size:30px
+    }
+
+} // scss는 이게가능하다 원래는 따로 써야됨(css)*/
